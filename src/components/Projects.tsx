@@ -18,6 +18,14 @@ const projects = [
     github: 'https://github.com/PuneetBenipal/Cool-Login-Page',
     live: 'https://cool-login-page-by-puneet.netlify.app/',
     tech: ['HTML', 'CSS', 'TailWind Css', 'JavaScript']
+  },
+  {
+    title: 'TODO List App',
+    description: 'A Cool Modern TODO List App',
+    image: '',
+    github: 'https://github.com/PuneetBenipal/Todo-List',
+    live: 'https://puneet-todo-list-app.netlify.app/',
+    tech: ['HTML', 'CSS','JavaScript']
   }
 ];
 
